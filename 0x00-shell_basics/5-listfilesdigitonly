@@ -1,2 +1,2 @@
-#!/bin/bash
-al -an 
+#!/bin/bash 
+al -lan
